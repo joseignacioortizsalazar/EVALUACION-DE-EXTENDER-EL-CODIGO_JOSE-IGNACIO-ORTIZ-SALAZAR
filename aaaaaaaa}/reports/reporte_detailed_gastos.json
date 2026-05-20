@@ -1,0 +1,12 @@
+{
+    "rango_fechas_consultado": {
+        "inicio": "2008-07-18",
+        "fin": "2026-05-20"
+    },
+    "categoria_consultada": "pan",
+    "lista_de_gastos": [],
+    "totales": {
+        "total_general": 0.0,
+        "total_por_categoria": {}
+    }
+}
